@@ -12,7 +12,7 @@ example,
 <p>
 Given: <br>
 *beginWord* = <code>"hit" </code><br>
-*endWord* = <code>"cog"` </code><br>
+*endWord* = <code>"cog" </code><br>
 wordList = <code>["hot","dot","dog","lot","log"]</code><br>
 </p>
 <p>
